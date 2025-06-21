@@ -1,4 +1,4 @@
-# Parttion Info
+# 分区信息
 
 | 显示名称 | 实际分区 | 用处 |
 DDR -> /dev/block/mmcblk0p22
