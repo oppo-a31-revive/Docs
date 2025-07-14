@@ -4,7 +4,7 @@
 
 Android 4.4.4 (KitKat)
 
-Color OS 2.0
+Color OS 2.0.1
 
 ## 内核
 
